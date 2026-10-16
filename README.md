@@ -26,7 +26,7 @@ This repository is pre-configured for one-click deployment to [Vercel](https://v
 3. **Set Environment Variables**:
    - Under **Environment Variables**, add:
      - `GEMINI_API_KEY`: Your Google Gemini API key.
-     - `GEMINI_MODEL`: (Optional, defaults to `gemini-2.5-flash` or `gemini-1.5-flash`).
+     - `GEMINI_MODEL`: (Optional, defaults to `gemini-3.8-flash`).
 4. **Deploy**:
    - Click **Deploy**. Your app will be live with a URL like `https://pulse-sentiment-agent.vercel.app`!
 
