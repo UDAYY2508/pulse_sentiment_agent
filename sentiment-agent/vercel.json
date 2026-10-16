@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/api/health", "destination": "/api/health.js" },
+    { "source": "/api/tweets", "destination": "/api/tweets.js" },
+    { "source": "/api/chat", "destination": "/api/chat.js" },
+    { "source": "/api/analyze", "destination": "/api/analyze.js" },
+    { "source": "/api/(.*)", "destination": "/api/index.js" }
+  ],
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 60
+    }
+  }
+}

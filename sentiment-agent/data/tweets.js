@@ -1,0 +1,403 @@
+export const tweets = [
+  {
+    "id": "TWT-001",
+    "text": "Very disappointing experience with a lifelong employee of the company. Instead of listening to the concern and responding properly, the behaviour was rude and dismissive.\n@lifelong_online"
+  },
+  {
+    "id": "TWT-002",
+    "text": "The September monthly jobs report showed the U.S. added far fewer jobs than economists expected and well below the prior month’s total. The economy, it seemed, might not be growing as rapidly as many had thought.  \nThe stock market’s response? Relief."
+  },
+  {
+    "id": "TWT-003",
+    "text": "You can deliver results, but fail if customers don't feel heard or updated. Experience this firsthand? It's about courtesy and attention, especially after payment."
+  },
+  {
+    "id": "TWT-004",
+    "text": "Nominated for the Peace prize \nFOR NOT STOPPING THE WAR IN RUSSIA AND UKRAINE \nFOR INVADING VENEZUELA \nFOR STARVING CUBA \nAND FOR WANTING TO WIPE OUT AN ENTIRE NATION OF \n@IRAN\n  BECAUSE THEY'RE SAVAGES \nYeah that makes total sense in the world today"
+  },
+  {
+    "id": "TWT-005",
+    "text": "Today I learned that a Tesla car costs exactly per US pricing.  No 100% import duty or anything. No road tax in Tamilnadu as well. So you are actually getting a 50L car at the 50al price without an inflated tax component"
+  },
+  {
+    "id": "TWT-006",
+    "text": "JUST IN: Premier League officials fear the league’s integrity, and the value of its broadcasting rights, would be damaged if Manchester City are not severely punished"
+  },
+  {
+    "id": "TWT-007",
+    "text": "@TechStore support saved my day! They replaced my damaged charger on the spot, zero hassle."
+  },
+  {
+    "id": "TWT-008",
+    "text": "What happens when a parcel needs checking?   Customer service will look at the last scan, contact the right team, and they’ll work to locate it. Sometimes finding it can take a bit of time, but once it’s located, it’s quickly back on its way again  #customerservice"
+  },
+  {
+    "id": "TWT-009",
+    "text": "Lakers were bound to always regret this \nA solid defender and a great 3 point shooter\nHe never demanded the ball and was happy with his role"
+  },
+  {
+    "id": "TWT-010",
+    "text": "person's future should not be decided by birth\nHard work deserves recognition\nEquality deserves commitment"
+  },
+  {
+    "id": "TWT-011",
+    "text": "@CloudSync announced their annual developer conference will take place virtually on November 12th."
+  },
+  {
+    "id": "TWT-012",
+    "text": "All of my life I always complained that fundamental physics is a mess in terms of mathematical rigour, clarity, and coherence. Now I find it a blessing! Will shield it from easy AI solutions and human physicists will still be needed to clear up the problems before they can become AI-tractable."
+  },
+  {
+    "id": "TWT-013",
+    "text": "One of Australia’s biggest fuel companies just spent A$225m buying Evie, Australia’s largest dedicated public fast-charging network.\nAmpol isn’t abandoning petrol tomorrow. It’s positioning for future where we increasingly buy electrons, not litres. #EV"
+  },
+  {
+    "id": "TWT-014",
+    "text": "Stuck on the tarmac for 2 hours without air conditioning or updates. @FlyFast is a complete nightmare."
+  },
+  {
+    "id": "TWT-015",
+    "text": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\nWe’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results."
+  },
+  {
+    "id": "TWT-016",
+    "text": "Excited to see what features @AI_Labs reveals during their livestream today!"
+  },
+  {
+    "id": "TWT-017",
+    "text": "Rahul Gandhi is eating a roll from Khan Chacha at the protest site. When I zoomed in on the roll’s packaging, I noticed a red symbol on it, which is usually used to indicate non-vegetarian food.\nSo, does this mean Rahul Gandhi, being a Hindu, is eating non-veg on a Tuesday?"
+  },
+  {
+    "id": "TWT-018",
+    "text": "#BREAKING GUYS 🇺🇸 DESTROY SUCCESSFUL 💪🎖️\nThe B-2 Spirit in action. ⚡ Strategic operations reported today against deep-tier facilities.\n 🇺🇸🇮🇷 As the dust settles, all eyes are on the regional response and the new security reality. 🗺️⚖️ #DefenseNews #USA #InternationalAffairs #StrategicStrike"
+  },
+  {
+    "id": "TWT-019",
+    "text": "The final boss fight in #EchoesOfEternity was absolute cinema! Best storyline in years."
+  },
+  {
+    "id": "TWT-020",
+    "text": "The battery efficiency on @DevOS v14.2 is incredible. Gained almost 3 extra hours on a single charge"
+  },
+  {
+    "id": "TWT-021",
+    "text": "The repo summarizes some of this but here are 2 of the more important problems they made progress on:\n1. Quasi-Riemann hypothesis: This gives much stronger guarantees on how irregularly primes can be distributed, by restricting where zeros of the zeta function and related functions can occur. That said, this establishes a boundary at 7/8. the full Riemann hypothesis requires 1/2 and remains unsolved.\n2. Unique Games Conjecture: New limits on how well polynomial-time algorithms can approximate optimization problems like Max-Cut and Vertex Cover. The caveat on this one is that interpreting it still assumes P /neq NP. Doesn't resolve P = NP."
+  },
+  {
+    "id": "TWT-022",
+    "text": "Flight AA809 from Chicago has been re-routed to Gate B12 due to ground traffic."
+  },
+  {
+    "id": "TWT-023",
+    "text": "The Treasury Committee have written to the chief executive of HM Revenue and Customs to ask about the tax implications of the Premier League’s investigation into Manchester City.\nHMRC could investigate whether City paid the right amount of tax and national insurance during the nine seasons they have been found guilty of financial rule breaches."
+  },
+  {
+    "id": "TWT-024",
+    "text": "$BTC surging past resistance levels today! Volume looks super strong going into the weekend."
+  },
+  {
+    "id": "TWT-025",
+    "text": "The next EV breakthrough isn't more range, it's what happens when range is gone! Sent a letter on this to Ola on Sept 3 [Local, Ola Electric]. Simpler than the problem, please review it! 🇮🇳⚡ #EV #Ola electric"
+  },
+  {
+    "id": "TWT-026",
+    "text": "Game patch 1.04 ruined balance completely. My main character got nerfed into the ground. Unplayable."
+  },
+  {
+    "id": "TWT-027",
+    "text": "if you go to the RTO office for the driving test without the mediation of agents, the RTO officer will reject your application for any reason until the agents' code/tick mark appears on your form—no one will accept your driving test application until then. I've experienced this myself."
+  },
+  {
+    "id": "TWT-028",
+    "text": "How long does a minimum wage worker has to work to buy a new iPhone 12 Pro Max 512GB?\nUK: 21 days\nGermany: 21 days\nJapan: 21 days\nUS: 24 days\nKorea: 26 days\nLuxembourg: 14 days\nAustralia: 15 days\nNew Zealand: 18 days\nMalaysia: 5.5 months\n#AppleEvent"
+  },
+  {
+    "id": "TWT-029",
+    "text": "I'm calling it now. \n@Stranger_Things\n Will be back in 11 Years time from their last episode. Everyone will be grown up, most actors and actresses should be alive still and this will be the ultimate coming of age. I chose 11 years for an obvious number reason"
+  },
+  {
+    "id": "TWT-030",
+    "text": "The release is a volume: hundreds of manuscripts, a subset with Lean checks, most attempTED problems still failed, and the zeta paper was the one a person ediTED. Family 003 on disk is not a classical zero-free argument on one page. It is a challenge stub ending in sorry, a one-line call, and a certificate assembly across a large tree. A text scan is not a kernel. This desk has no green log and no red log.\nSwinging a lot at the wall is a fair description of the catalogue. It is not yet a description of a failed theorem. A green comparator would certify the staTED nonvanishing past (7/8), and that would still leave the band of width (3/4). A red log, a hidden sorry, or an axiom outside propext, Quot.sound, and Classical.choice kills the stamp. Until one of those arrives, the claim is incomplete, not occupied."
+  },
+  {
+    "id": "TWT-031",
+    "text": "This is by far the most insane event that has happened to modding world that I have ever seen\nModders are now using AI to fuse two games together, in this instance here Marvel Spider-Man is thrown into Batman Arkham Knight with full web swinging mechanics\nAt this point I won't be surprised if somehow modders manage to fuse two games together like Red Dead Redemption 2 with Witcher 3 or GTA 5 with Cyberpunk 2077 and so on.\nSo far there have been working mods like Minecraft inside of Elden Ring, Skate in GTA Vice City, Minecraft inside Mario 64 and much more."
+  },
+  {
+    "id": "TWT-032",
+    "text": "Portfolio down 12% in 2 days. The market volatility this month is brutal."
+  },
+  {
+    "id": "TWT-033",
+    "text": "I honestly can't believe how @viagogo\n treats customers. Error reported the same day, mistake acknowledged in writing, refund refused anyway. The only answer: \"sell the tickets yourself\". Zero customer focus, zero flexibility, endless frustration. #ConsumerRights #CustomerService"
+  },
+  {
+    "id": "TWT-034",
+    "text": "HITS hosted an Expert Panel Discussion on “Electric Vehicles: Advancements, Constraints and Its Future”, bringing industry insights on EV innovations, adoption challenges, and sustainable transportation."
+  },
+  {
+    "id": "TWT-035",
+    "text": "As I understand it, unfortunately as they’ve always reported a loss there are minimal tax implications. If they’d correctly reported a bigger loss then it would have even less effect"
+  },
+  {
+    "id": "TWT-036",
+    "text": "If Delhi Police can detain Rahul Gandhi\nWhy so much liberty is given to Ranka, Dipke and Dass.\nJust asking."
+  },
+  {
+    "id": "TWT-037",
+    "text": "Waiting on hold for 45 minutes with @FitGear just to be told my return was rejected. Horrible service."
+  },
+  {
+    "id": "TWT-038",
+    "text": "#DPD apparently think a communal entrance counts as my “Front Porch”.\nClear TOP FLOOR delivery instructions ignored again. No buzz, just dump & go.\nRaw cat food left on the mud. “secure delivery”? 😂🐱"
+  },
+  {
+    "id": "TWT-039",
+    "text": "@StreamFlix season 2 premiere drops tonight at midnight PST."
+  },
+  {
+    "id": "TWT-040",
+    "text": "Apple is reportedly planning another product launch on October 13. The event could introduce new smart-home products and an upgraded Siri, though Apple has not officially confirmed the event."
+  },
+  {
+    "id": "TWT-041",
+    "text": "Flight DL1842 landed 20 minutes ahead of schedule in Atlanta, and my checked bag was already on the carousel! Outstanding job @Delta."
+  },
+  {
+    "id": "TWT-042",
+    "text": "Everything is just happening to City at once. They might not remain a football club before the international break ends😂😂"
+  },
+  {
+    "id": "TWT-043",
+    "text": "Drove 400 miles on a single charge in my #Rivian. Charging infrastructure on I-95 was flawless!"
+  },
+  {
+    "id": "TWT-044",
+    "text": "She won the World Cup. Then she gave up the captaincy. \n Harmanpreet Kaur has stepped down as India's women's captain across all formats, and she did it after leading India to back-to-back Asian Games golds. \nThink about what she has done. After Kapil Dev and MS Dhoni, she is only the third captain to win the ODI World Cup for India. \nMany people felt this moment was coming. But most captains are pushed out after a loss. She chose to step aside after a win, peacefully. She will keep playing, and she said the journey continues. \nWhat I'll remember most is her aura on the field. That charm between the matches. And the moment she won the World Cup and jumped onto her father like a little girl. \nA captain who lifted the trophy and was still just her father's daughter. \nThis girl is amazing. Thank you, Captain. \n What is your favourite Harmanpreet moment? Tell me in the comments."
+  },
+  {
+    "id": "TWT-045",
+    "text": "New talks have begun regarding defense cooperation between India and the UAE. According to reports, the UAE is showing interest in purchasing India's BrahMos missile and Akashteer air defense system. Amid rising tensions in the Middle East, this partnership is being considered crucial. #BreakingNews #DefenseNews #IndiaUAE #WorldNews"
+  },
+  {
+    "id": "TWT-046",
+    "text": "Shoutout to the @McDonalds crew on 5th Ave for making my iced coffee perfectly today. Y'all made my morning!"
+  },
+  {
+    "id": "TWT-047",
+    "text": "DSA 2026: Hanwha, Cendana showcase upgraded K200 IFV\nHanwha Aerospace has displayed a proof-of-concept prototype of an upgraded K200 infantry fighting vehicle (IFV), developed in collaboration with Malaysian vehicle manufacturer Cendana."
+  },
+  {
+    "id": "TWT-048",
+    "text": "@PlayStation patch 2.0.4 completely broke matchmaking in #Helldivers2. Can't connect to a single lobby tonight."
+  },
+  {
+    "id": "TWT-049",
+    "text": "@AmazonHelp my driver just marked flight package #88291 as delivered, but my porch camera shows no one ever showed up. Where is my package?"
+  },
+  {
+    "id": "TWT-050",
+    "text": "Delhi: Actor Rajpal Yadav reaches Supreme Court\n➡️Rajpal Yadav reaches SC in cheque bounce case\n➡️SC had directed to deposit 2 crore rupees\n➡️Matter of depositing 2 crore rupees in SC registry\n➡️Rajpal Yadav's appearance in SC in cheque bounce case\n#Delhi #RajpalYadav #SupremeCourt"
+  },
+  {
+    "id": "TWT-051",
+    "text": "I lost Rahul Gandhi ji when he said that Retail Investors lost 30 Lakh Crore of their Money 😂\nYes, we have a Long Consolidation. Yes, we need to Abolish Double Taxation. Govt should Reward Long Term Patient Capital.\nBut Misinformation should not be Given !!! Our Earnings are at All Time High. Indian Companies have done well actually. Their Balance Sheets have become Stronger.\nBasic Understanding that 30 Lakh Crore of Market Cap Erosion doesn't mean Retail Lost that Much. \nWho will tell him all this? 😭😭😭"
+  },
+  {
+    "id": "TWT-052",
+    "text": "World Bank Just Upgraded India. Again.\nFY27 GDP growth forecast: 7.1% (up from 6.6%).\nFY28: 7.2%.\nIndia already grew 7.8% in FY26.\nWhy this matters:\nFastest-growing major economy in the world – even as global headwinds persist.\n7.1% vs 6.9% South Asia average; \nGrowth backed by domestic demand + strong exports, not just base effects.\nStructural reforms doing the heavy lifting: Labour Code, GST, tariff rationalisation, IBC, infra push \nMedium-term outlook: ~7.1% average through FY28–29, with narrowing CAD and easing inflation.\nRisks?\nYes – higher crude, El Niño-led food inflation, and possible market corrections.\nBut the World Bank’s view is clear: these are near-term"
+  },
+  {
+    "id": "TWT-053",
+    "text": "Oh fantastic, @ShipQuick delayed my package for the third time this week. Truly top-tier reliability."
+  },
+  {
+    "id": "TWT-054",
+    "text": "Charging station at 5th St is out of order again. Second time this week I've had to call a tow."
+  },
+  {
+    "id": "TWT-055",
+    "text": "\"Summing up the Monetary Policy announcement on October 07, 2026:\n• Policy Repo Rate increased to 5.50%\n• Marginal Standing Facility (MSF) rate & Bank Rate stands adjusted at 5.75%\n• Standing Deposit Facility (SDF) rate stands adjusted at 5.25%\n• Real GDP growth for 2026-27 is projected at 7.1%\n• CPI Inflation for 2026-27 is projected at 5.2%\""
+  },
+  {
+    "id": "TWT-056",
+    "text": "HMRC should of done this ages ago!!!!\nThis is a major failing on them!!!!\nBecause some of the charges was false financial records!!!!\nTo be honest someone at HMRC should be losing their job for not investigating this sooner!!!"
+  },
+  {
+    "id": "TWT-057",
+    "text": "If they inflated sponsorship then surely they paid too much tax so entitled to a rebate……\nThat would be a turn up for the “cooked” books"
+  },
+  {
+    "id": "TWT-058",
+    "text": "Took a 500-mile road trip in my @Tesla Model Y today. Autopilot handled stop-and-go highway traffic flawlessly!"
+  },
+  {
+    "id": "TWT-059",
+    "text": "First teaser for the new collaboration between Stranger Things and Dead by Daylight!\nNew skins:\n- Steve (final battle)\n- Nancy (final battle)\n- Vecna (season 4)\n🗓️Coming November 5th"
+  },
+  {
+    "id": "TWT-060",
+    "text": "BREAKING: GTA 6 has OFFICIALLY been CONFIRMED to launch on PC DAY 1, as Xbox and Microsoft have signed an EXCLUSIVE deal with Rockstar Games for the cloud streaming rights for GTA 6 🤯 \nIn an exclusive article by “The Verge” we are told that “no other platform holder” is doing the same, meaning Xbox cloud gaming will be the ONLY place to play GTA 6 on PC 👀"
+  },
+  {
+    "id": "TWT-061",
+    "text": "Drivers for @NVIDIA RTX 4080 updated smoothly. Performance in Cyberpunk benchmark increased by 7 FPS."
+  },
+  {
+    "id": "TWT-062",
+    "text": "Virat Kohli's spokesperson has issued a statement saying that:  \nThe statement given by Dinesh Falahari is completely wrong. Virat Kohli did not go there for money."
+  },
+  {
+    "id": "TWT-063",
+    "text": "@airtelindia\n@LinkedInHelp\n I canceled my 3-month Premium trial via Airtel Xstream, but STILL got wrongfully charged ₹999. Now Airtel is washing their hands, claiming LinkedIn deducted the money! Stop the blame game. Refund immediately or I'm moving to consumer court."
+  },
+  {
+    "id": "TWT-064",
+    "text": "AJIT AGARKAR EXPOSED !🤯\n- It was because of Ajit Agarkar that Bhuvneshwar Kumar and Mohammed Shami were not getting a place in the team for so long.\n- Because of Ajit Agarkar, Rohit Sharma did not play the England Test series and eventually retired from Test cricket.\n- Virat Kohli’s first priority was to score 10,000 runs in Test cricket. But because of Ajit Agarkar, he too had to retire from Test cricket.\n- Hardik Pandya was not made the captain of India’s T20I team because of Ajit Agarkar.\n- Despite putting in such good performances, Rajat Patidar and Hardik Pandya did not get a chance in the Indian team solely because of Ajit Agarkar."
+  },
+  {
+    "id": "TWT-065",
+    "text": "looking up at the stars with extra awe tonight.\n\"thy sea is so great and my boat is so small.\""
+  },
+  {
+    "id": "TWT-066",
+    "text": "\"This isn't professional anymore, 3 days delay after parcel reaching Banglore is seriously unacceptable and surprisingly there is no movement even after reporting, call and mailing the customer care."
+  },
+  {
+    "id": "TWT-067",
+    "text": "The English FA could add additional charges against Manchester City on top of the Premier League \nThey’ve indicated City have damaged the game’s integrity"
+  },
+  {
+    "id": "TWT-068",
+    "text": "1 US Dollar is now equivalent to 96.52 INR \nGovernment can save the Indian Rupee by declaring a 1:1 bonus to bring the value of the US dollar down to 48 INR\nPM Modi should think about this masterstroke"
+  },
+  {
+    "id": "TWT-069",
+    "text": "Doug Ford’s next billion dollar scandal.\nSeven private career colleges received $385 million in OSAP grants in 2024-25, amid serious questions about suspicious activity and government oversight.\nNow students across the entire post-secondary sector are paying the price for the government’s mismanagement.\nThe \n@OntLiberal\n party and I have asked the Auditor General to investigate.\nIt’s time to fix OSAP ASAP"
+  },
+  {
+    "id": "TWT-070",
+    "text": "#StarWars episode 4 of the new season was absolute cinema! Best lightsaber choreography since the original trilogy."
+  },
+  {
+    "id": "TWT-071",
+    "text": "Ford F-650  VS Mercedes-Benz G-Class G-Wagon. \nBoth are really meant for heavy duty but I think engines are different. \nWho do you think won this?"
+  },
+  {
+    "id": "TWT-072",
+    "text": "In 2019 Mercedes-Benz celebrates the round birthdays of company founders Gottlieb Daimler and Carl Benz. Benz was born 175 years ago on 25 November 1844 in Mühlburg, near Karlsruhe and Daimler 185 years ago on 17 March 1834 in Schorndorf!"
+  },
+  {
+    "id": "TWT-073",
+    "text": "@Starbucks brought back the Pumpkin Spice Latte today! Fall is officially here 🍁🎃"
+  },
+  {
+    "id": "TWT-074",
+    "text": "Worst delivery experience with \n@Flipkart\n@flipkartsupport\n . The delivery agent refused to deliver, saying the parcel was too heavy, and asked me to collect it from a hub 15 km away. What’s the point of home delivery then? Unacceptable! #Flipkart #CustomerService #deliveryfail"
+  },
+  {
+    "id": "TWT-075",
+    "text": "The new @Spotify UI layout redesign moved the queue button to a submenu. Why hide basic controls?"
+  },
+  {
+    "id": "TWT-076",
+    "text": "Hot Rod Days are on Water Street tonight and tomorrow 🔥 If all that chrome has you thinking about your next ride, come see me at Ford Country in Henderson. I'll get you a free trade appraisal and an easy test drive. DM me to set up a time"
+  },
+  {
+    "id": "TWT-077",
+    "text": "The API latency on GPT-4o today has been rough. Getting timeout errors on basic JSON calls @OpenAI."
+  },
+  {
+    "id": "TWT-078",
+    "text": "A 19-year-old from Bihar, Shubham Kumar, has achieved a milestone in the popular mobile game Candy Crush Saga by reaching Level 22,222."
+  },
+  {
+    "id": "TWT-079",
+    "text": "Has anyone tried the new espresso blend from @CafeRoasts? Curious if it's less acidic than the main roast."
+  },
+  {
+    "id": "TWT-080",
+    "text": "City bike + cargo bike in one. 🚴‍♀️\nThe rear wheels of the Convercycle Bike can be fully folded without tools. It provides new flexibility for life in urban areas."
+  },
+  {
+    "id": "TWT-081",
+    "text": "I'm old enough to remember when the Orange Order were openly and proudly sectarian, and  Taigs got battered off the public roads and barricaded into their ghettos by an equally sectarian 'Police Force'....(and it ain't all that long ago!)"
+  },
+  {
+    "id": "TWT-082",
+    "text": "Multibagger Stocks 🔥🔥\nExpecting 10X from here.\nPrice Rs 14\nMarket Cap 1500Cr\nPromoter holding 50%\nBreakout 🚀\nPlease follow to know the name \nI have already Invested. Please do your research before Investing"
+  },
+  {
+    "id": "TWT-083",
+    "text": "Argentina will never have a good gaming industry because the developers here are more focused on “eeee look Argentina this is Argentine” and only make simulators of [typical Argentine activity] with Play 2 graphics, never an original game with a good premise"
+  },
+  {
+    "id": "TWT-084",
+    "text": "Q3 2026  \nProduction: 464,391\nDeliveries: 486,532\nEnergy storage deployments: 13.7 GWh\nOur Q3 Company Update will be streamed live on X on October 21 at 4:30pm CT"
+  },
+  {
+    "id": "TWT-085",
+    "text": "A warrior with a cause is the most dangerous soldier 🔥\nThirumba arambikalama?\nWelcome to the universe \n@offl_Lawrence\n sir 💣\nTo the powerhouse who always cooks up an amazing virundhu every single time.. Happy Birthday #RaghavaLawrence"
+  },
+  {
+    "id": "TWT-086",
+    "text": "This delay is a risk to the patient's health. Kindly look into this immediately and expedite the delivery to Bagoda today Before 1 pm o'clock!\n@ShiprocketIndia\n @shiprocket_exp"
+  },
+  {
+    "id": "TWT-087",
+    "text": "BIG BREAKING: Megastar Chiranjeevi is all set to make history! 🔥\nChiranjeevi to headline Netflix’s first-ever celebrity talk show on an international platform! \nA landmark move that brings the Megastar to a global audience like never before."
+  },
+  {
+    "id": "TWT-088",
+    "text": "I don’t lie ! I am not a sinner ! Lula should have stayed arrested ! He should never have been able to run for president with a dirty record & so many crimes and even having been declared by #trump #whitehouse as a TERRORIST #Eleições2026 Flávio has to be the president🇧🇷🏆🔔"
+  },
+  {
+    "id": "TWT-089",
+    "text": "CJP's 'Chappal Protest'\nThe Cockroach Janta Party announced \"chappal protest\" in Bengaluru on October 8, in solidarity with women journalists who alleged sexual harassment by a Delhi Police officer at Jantar Mantar in the national capital"
+  },
+  {
+    "id": "TWT-090",
+    "text": "JUST PRESS SPACE DEMO IS OUT NOW.\nI gave you ONE button.\nSurely you can’t mess this up... right?\nThe FREE demo is live on Steam. Go press Space and prove me wrong"
+  },
+  {
+    "id": "TWT-091",
+    "text": "Are #bicycles supposed to be on the freeway? Did someone put this message in the wrong area? Granted a bike could move quicker in this bumper to bumper traffic on 210…but I don’t think bicycles are supposed to be on the freeway."
+  },
+  {
+    "id": "TWT-092",
+    "text": "It was a seemingly innocuous email, sent on a Wednesday morning in January 2017, that started everything.\nArriving in the inbox of a senior official at Manchester City, it appeared to have been sent by an employee from European football’s governing body, UEFA, and contained a link to a financial compliance report.\nThe City official clicked the download button. That was all it took.\nIt was not a genuine email from UEFA but a successful phishing attempt by Portuguese hacker and activist Rui Pinto. City’s servers were breached, allowing Pinto to retrieve thousands of emails and documents from the club’s systems.\nThis week, almost 10 years on from Pinto’s first email, the Premier League announced that an independent panel had found City guilty of all but one of the charges against them, as The Athletic first revealed last Friday."
+  },
+  {
+    "id": "TWT-093",
+    "text": "$124K: “$BTC is too expensive. I'll wait for a dip.\"  \n$85K: “Bitcoin is dead. I'll buy some later.\"  \nEVERY SINGLE CYCLE   WE KNOW WHAT TO DO"
+  },
+  {
+    "id": "TWT-094",
+    "text": "URGENT: Highly unprofessional service! My crucial medicine order (Tracking ID: SF3932375523KAK) is stuck at the Ahmedabad DC hub since yesterday 3:28 PM. 5 days have passed since ordering, and the patient's medicines are now fully exhausted."
+  },
+  {
+    "id": "TWT-095",
+    "text": "This is the first time something like this has happened after COVID\nPressure has mounted on the market amid Nifty falling below its 200WEMA and intense selling. The rebound in Crude Oil and weak US Futures have also heightened concerns."
+  },
+  {
+    "id": "TWT-096",
+    "text": "Tired from the Metro Manila commute? I built Astray so you can rest on the bus, UV Express, MRT or LRT. Set your destination and it'll alarm you before your stop so you never miss it.\nFree on iOS"
+  },
+  {
+    "id": "TWT-097",
+    "text": "After multiple drafts, intense discussions and bitter fights among carmakers over the past 27 months, the Ministry of Power late Tuesday night notified the CAFE-3 norms to lower carbon dioxide emissions.\nThe final notification made it clear that small cars will not get a separate concession. Maruti Suzuki India, India’s largest carmaker and the country's dominant small-car seller, had strongly pushed for such relief."
+  },
+  {
+    "id": "TWT-098",
+    "text": "After being banned from Roblox due to the false AI ban wave, I have lost hope in retrieving my account due to many automated deny emails, and no human response.\nI have decided to make the switch to Unity/Steam and I'm hoping to network on here."
+  },
+  {
+    "id": "TWT-099",
+    "text": "These three entities are jointly accountable for propelling the nation toward decline. Their membership within the NDA was a prerequisite for the establishment of a BJP-led government, a fact that historical records will preserve."
+  },
+  {
+    "id": "TWT-100",
+    "text": "People who survived the 2008 bear market, made millions in 2021.  \nPeople who survived the 2020 bear market, made millions in 2025.  \nPeople who survived the 2026 bear market, will going to lose more money!\nBring Back Congress in 2029 if u want to alive guys!"
+  }
+];
+export default tweets;
