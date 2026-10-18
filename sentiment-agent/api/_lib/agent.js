@@ -46,7 +46,7 @@ export function rankTweets(query, limit = 18) {
   return ranked.length ? ranked : tweets.slice(0, 12);
 }
 
-export async function askGemini(prompt, maxOutputTokens = 3500, jsonMode = false) {
+export async function askGemini(prompt, maxOutputTokens = 3500, jsonMode = false, retries = 1) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) {
     throw Object.assign(
@@ -72,6 +72,15 @@ export async function askGemini(prompt, maxOutputTokens = 3500, jsonMode = false
     }
   );
   const data = await response.json();
+  if (response.status === 429 && retries > 0) {
+    // If rate-limited on free tier, wait for the suggested retry window (or 6s) and retry once
+    const match = data?.error?.message?.match(/retry in ([0-9.]+)s/i);
+    const delayMs = match ? Math.min(Math.ceil(parseFloat(match[1])) * 1000, 10000) : 6000;
+    if (delayMs <= 10000) {
+      await new Promise(resolve => setTimeout(resolve, delayMs));
+      return askGemini(prompt, maxOutputTokens, jsonMode, retries - 1);
+    }
+  }
   if (!response.ok) {
     throw Object.assign(
       new Error(data?.error?.message || `Gemini API error (${response.status})`),
